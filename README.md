@@ -19,7 +19,7 @@ Result:
 select sum(amount) as total_amount_donation from donations;
 ```
 Result:
-![Q3]https://i.imgur.com/tIeX2B8.png)
+![Q3](https://i.imgur.com/tIeX2B8.png)
 
 **4.)Get details about the architecture of the Ram Mandir?**
 ```mysql
